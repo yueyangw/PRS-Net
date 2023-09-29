@@ -76,4 +76,4 @@ def train(epoch, model, learning_rate, device='cpu'):
 if __name__ == '__main__':
     device = 'cpu'
     model = Model(device=device)
-    train(60, model, 0.01, device)
+    train(300, model, 0.01, device)
