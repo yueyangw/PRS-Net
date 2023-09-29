@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/opt/anaconda3/bin/black" />
+    <option name="sdkUUID" value="7c46ae1c-626c-4e6c-8624-fa2002b5151f" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (PRS-Net)" project-jdk-type="Python SDK" />
+</project>
